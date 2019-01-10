@@ -1450,12 +1450,12 @@
     "1547108066212": {
       "events": {},
       "links": {},
-      "address": "0x33384A782ff0bB8eB6BC7FF81941479df5a49aB1",
-      "transactionHash": "0x8337831d4ce7ef350d8cefbe435f77c2dc2364f3c680a8866d147928422f78db"
+      "address": "0x0200C6f8EDF0D8dCbbe085891E9193A329f0892A",
+      "transactionHash": "0x467f3ea489db4b30b3b0df23284fc3435f5f075b4e81aa36522a398d04cc5eb7"
     }
   },
   "schemaVersion": "3.0.1",
-  "updatedAt": "2019-01-10T09:38:38.832Z",
+  "updatedAt": "2019-01-10T10:11:48.905Z",
   "devdoc": {
     "methods": {
       "allowance(address,address)": {
